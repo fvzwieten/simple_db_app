@@ -1,3 +1,10 @@
+<?php
+
+require "config.php";
+require "common.php";
+
+?>
+
 <?php include "templates/header.php"; ?>
 
 <ul>
