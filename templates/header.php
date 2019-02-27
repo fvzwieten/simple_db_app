@@ -9,10 +9,10 @@
         <h1><img src="images/redhat-logo.png" alt="Red Hat Rocks!" height="100" width="100"> 
         Hands-on Lab
 	<img src="images/ansible-logo.png" alt="Ansible Rocks!" height="100" width="100"></h1> 
-	<titl"<?= $appname ?>e></title>
+	<title<?= $appname ?></title>
 
 	<link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
-	<h1>"<?= $appname ?></h1>
+	<h1><?= $appname ?></h1>
